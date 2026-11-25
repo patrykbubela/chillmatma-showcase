@@ -1,0 +1,3 @@
+-r requirements.txt
+django_browser_reload
+djlint
